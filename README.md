@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kanchid Nshwes (เก้า)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Kimhan%20Yangmung&fontSize=40&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Kanchid%20Nushwes&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
 🎓 Computer Science Student
 🌍 Based in Thailand
