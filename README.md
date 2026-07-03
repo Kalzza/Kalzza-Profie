@@ -78,9 +78,9 @@
 
 ## 📬 Contact
 
-📧 Email: [kalzza@gmail.com](mailto:kimkimhan14@gmail.com)
-📱 Phone: 083-702-6838
-🌐 GitHub: [https://github.com/Kalzza](https://github.com/)
+📧 Email: [660571@hcu.ac.th](660571@hcu.ac.th)
+📱 Phone: 0956303260
+🌐 GitHub: [https://github.com/Kalzza](https://github.com/Kalzza)
 
 ---
 
